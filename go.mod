@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/bytedance/sonic v1.5.0
-	github.com/cloudwego/hertz v0.4.0
+	github.com/cloudwego/hertz v0.4.1
 	go.uber.org/zap v1.23.0
 )
 
@@ -13,7 +13,7 @@ require (
 	github.com/bytedance/go-tagexpr/v2 v2.9.5 // indirect
 	github.com/bytedance/gopkg v0.0.0-20221011080209-a5420d77228c // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20220526154910-8bf9453eb81a // indirect
-	github.com/cloudwego/netpoll v0.2.6 // indirect
+	github.com/cloudwego/netpoll v0.3.1 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/henrylee2cn/ameda v1.5.0 // indirect
