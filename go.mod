@@ -3,7 +3,7 @@ module github.com/houseme/union-pdd-go
 go 1.18
 
 require (
-	github.com/bytedance/sonic v1.8.4
+	github.com/bytedance/sonic v1.8.5
 	github.com/cloudwego/hertz v0.6.0
 	go.uber.org/zap v1.24.0
 )
