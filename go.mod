@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/bytedance/sonic v1.11.8
-	github.com/cloudwego/hertz v0.8.1
+	github.com/cloudwego/hertz v0.9.0
 	go.uber.org/zap v1.27.0
 )
 
