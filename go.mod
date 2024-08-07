@@ -3,7 +3,7 @@ module github.com/houseme/union-pdd-go
 go 1.18
 
 require (
-	github.com/bytedance/sonic v1.11.9
+	github.com/bytedance/sonic v1.12.1
 	github.com/cloudwego/hertz v0.9.1
 	go.uber.org/zap v1.27.0
 )
@@ -13,7 +13,7 @@ require (
 	github.com/andeya/goutil v1.0.1 // indirect
 	github.com/bytedance/go-tagexpr/v2 v2.9.7 // indirect
 	github.com/bytedance/gopkg v0.0.0-20230224073017-0b6876860a2f // indirect
-	github.com/bytedance/sonic/loader v0.1.1 // indirect
+	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
 	github.com/cloudwego/iasm v0.2.0 // indirect
 	github.com/cloudwego/netpoll v0.6.0 // indirect
